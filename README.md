@@ -5,7 +5,7 @@
 
 {Provide a description of the software that you wrote to demonstrate the Kotlin language.}
 
-{Describe your purpose for writing this software.}
+I have a particular app I want to make. This app will require me to learn how to track location along with many other new things. To start I made this program to slowly become more and more familiar with the Kotlin language.
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
@@ -13,9 +13,9 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+*Android Studio
 
-{Describe the programming language that you used and any libraries.}
+*Kotlin
 
 # Useful Websites
 
@@ -26,8 +26,6 @@
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Item 1 I want it to track location
+- Item 2 I want it to save input from the user
+- Item 3 I want it to display the note the user (or someone who knows the user) made previously as a reminder for the user when they reach the desired location. For instance, the user or their family could enter into a note that when the person arrives at the store it displays their note which was a grocery list. Or if the user arrives at the bank their note displays reminding them to grab extra checks.
